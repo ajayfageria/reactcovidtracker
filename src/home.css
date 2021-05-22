@@ -9,6 +9,10 @@
      list-style-type: none;
  } */
  
+ .heading {
+     text-align: center;
+ }
+ 
  .card_inner {
      text-align: center;
      text-shadow: 1.5px 1.5px burlywood;
@@ -33,4 +37,16 @@
      text-align: center;
      line-height: 40px;
      font-size: 30px;
+ }
+ 
+ @media (max-width: 800px) {
+     .flex-container {
+         flex-direction: column;
+         width: 1000px;
+         margin-left: -7.5rem;
+     }
+     .heading {
+         text-align: center;
+         margin-left: -70px;
+     }
  }

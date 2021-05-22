@@ -15,7 +15,7 @@ function Home() {
 
     return (
         <>
-           <div style={{textAlign:"center"}}>
+           <div s className="heading">
             <h1>  🔴 Live </h1>
             <h2>COVID-19 CORONAVIRUS TRACKER</h2>
             </div>
