@@ -74,7 +74,7 @@ function Home() {
             </div>
             <div style={{textAlign:"center",marginTop:"50px"}}>
            
-            <h2>Developed By- Ajay Kumar</h2>
+            <h2>Developed By-- Ajay Kumar</h2>
             </div>
   
         </>
