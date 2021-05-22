@@ -1,0 +1,36 @@
+ /* .card_main {
+     height: 14rem;
+     width: 16rem;
+     background-color: #698296;
+     border-radius: 4px;
+ }
+  */
+ /* .list {
+     list-style-type: none;
+ } */
+ 
+ .card_inner {
+     text-align: center;
+     text-shadow: 1.5px 1.5px burlywood;
+     color: black;
+ }
+ 
+ .card_small {
+     font-size: xx-large;
+ }
+ 
+ .flex-container {
+     display: flex;
+     flex-wrap: nowrap;
+     background-color: white;
+     margin-top: 60px;
+ }
+ 
+ .flex-container>div {
+     border-radius: 7px;
+     width: 20%;
+     margin-left: 9rem;
+     text-align: center;
+     line-height: 40px;
+     font-size: 30px;
+ }
